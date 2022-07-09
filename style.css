@@ -1,0 +1,62 @@
+
+.container-fluid{
+    width: 100%;
+}
+.navbar{
+    background-color: #153851;
+}
+#brand{
+    width: 90%;
+    margin-left: 20px;
+}
+#f{
+   width: 10%;
+}
+.nav-link{
+    color: whitesmoke;
+    text-align: left;
+    font-size: 1.2rem;
+    margin-left: 2px;
+}
+.earth{
+    width: 5%;
+}
+h1{
+    color: white;
+}
+p{
+    color: azure;
+}
+.am{
+max-width: 100%;
+
+}
+.signin{
+    margin-top: 10px;
+    border-radius: 3%;
+   
+     
+}
+.limg{
+    width: 100%;
+    
+}
+.family{
+    width: 100%;
+    height: 100%;
+}
+.remote
+{
+    width: 100%;
+}
+footer{
+    padding: 20px 0 20px;
+    text-align: center;
+    background-color: #322f2f;
+}
+.flink
+{
+    display: inline-block;
+    text-decoration: none;
+   
+}
